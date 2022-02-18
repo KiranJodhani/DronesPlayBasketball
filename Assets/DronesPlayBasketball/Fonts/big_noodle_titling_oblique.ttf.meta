@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 741b212bc706c4dbc8ba5e71475dcf60
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BigNoodleTitling
+  fontNames:
+  - BigNoodleTitling
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1c3488bf0e13e43199429016867eec0c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
